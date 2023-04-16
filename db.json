@@ -1,0 +1,10 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "firstName": "Test",
+      "lastName": "Sample",
+      "totalMarks": "500"
+    }
+  ]
+}
